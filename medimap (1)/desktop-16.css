@@ -1,0 +1,318 @@
+.removebg-preview-2-icon4 {
+  margin-left: -1212px;
+  height: 197px;
+  width: 246px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.back10,
+.icon {
+  position: relative;
+}
+.icon {
+  height: 50px;
+  width: 45px;
+}
+.back10 {
+  font-size: var(--font-size-mini-8);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--body-text);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 35px;
+}
+.content-left-bottom-inner,
+.secondary-button10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.secondary-button10 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-17xl);
+  background-color: var(--color-black);
+  border-radius: 7.42px;
+  align-items: flex-start;
+}
+.secondary-button10:hover {
+  background-color: var(--color-darkslategray);
+}
+.content-left-bottom-inner {
+  align-items: flex-end;
+  gap: 22px;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.content-left-bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 69px 0 0;
+}
+.content-left,
+.content8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.content-left {
+  width: 1355px;
+  justify-content: flex-start;
+  padding: 0 0 0 1181px;
+  gap: 966px;
+}
+.content8 {
+  justify-content: flex-end;
+  padding: 0 var(--padding-3xl) 0 0;
+}
+.treatment5 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-limelight);
+}
+.diagnosis-of-leptospirosis,
+.prevention-of-leptospirosis {
+  margin: 0;
+}
+.treatment-diagnosis-of-container {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  min-width: 505px;
+  max-width: 100%;
+}
+.image-19-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.content-right-top,
+.diagnosis-image {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.diagnosis-image {
+  height: 380px;
+  width: 495px;
+  flex-direction: column;
+  padding: var(--padding-base) 0 0;
+  box-sizing: border-box;
+  min-width: 495px;
+}
+.content-right-top {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-15xl);
+}
+.top-products-used4 {
+  margin: 0;
+  font-family: var(--font-limelight);
+}
+.antibiotics-eg-doxycycline,
+.ceftriaxone,
+.intravenous-fluids,
+.penicillin,
+.symptomatic-treatment-for1 {
+  margin: 0;
+}
+.top-products-used-container4 {
+  width: 548px;
+  position: relative;
+  font-size: var(--subheading-size);
+  line-height: 150%;
+  display: inline-block;
+  max-width: 100%;
+}
+.content-right {
+  width: 1326px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  gap: var(--gap-19xl);
+}
+.content-right,
+.divider5,
+.footer-left-top,
+.main3 {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.main3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  text-align: left;
+  font-size: var(--body-text-size);
+  color: var(--color-black);
+  font-family: var(--font-marcellus-sc);
+}
+.divider5,
+.footer-left-top {
+  align-self: stretch;
+}
+.divider5 {
+  flex: 1;
+  position: relative;
+  border-top: 0.4px solid var(--color-gainsboro-100);
+}
+.footer-left-top {
+  height: 0.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-2xl);
+}
+.medimap5 {
+  width: 227.7px;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  mix-blend-mode: normal;
+}
+.footer-left {
+  width: 478.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-38xl-6);
+  max-width: 100%;
+}
+.the-greatest-of {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+  font-weight: 800;
+}
+.footer-right {
+  width: 392px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-2xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-mini);
+}
+.navigation-footer4 {
+  margin-left: -12px;
+  align-self: stretch;
+  border-radius: 7.14px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-44xl) var(--padding-33xl) var(--padding-22xl);
+  box-sizing: border-box;
+  max-width: 101%;
+  flex-shrink: 0;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--subheading-size);
+  color: var(--color-black);
+  font-family: var(--body-text);
+}
+.desktop-16 {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+  background-image: url(./public/desktop--99@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1400px) {
+  .content-left {
+    flex-wrap: wrap;
+    gap: 483px;
+    padding-left: 590px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .image-19-icon {
+    align-self: stretch;
+    width: auto;
+  }
+  .diagnosis-image {
+    flex: 1;
+  }
+  .content-right-top,
+  .navigation-footer4 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 825px) {
+  .content-left {
+    gap: 241px;
+    padding-left: 295px;
+    box-sizing: border-box;
+  }
+  .diagnosis-image,
+  .treatment-diagnosis-of-container {
+    min-width: 100%;
+  }
+  .content-right-top {
+    gap: var(--gap-mid);
+  }
+  .content-right {
+    gap: var(--gap-lgi);
+  }
+  .footer-left {
+    gap: var(--gap-10xl);
+  }
+  .navigation-footer4 {
+    padding-right: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .desktop-16 {
+    gap: var(--gap-4xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .content-left {
+    gap: 121px;
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .treatment-diagnosis-of-container {
+    font-size: var(--small-text-size);
+    line-height: 38px;
+  }
+  .medimap5,
+  .top-products-used-container4 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+}

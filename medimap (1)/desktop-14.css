@@ -1,0 +1,301 @@
+.removebg-preview-2-icon2 {
+  margin-left: -1279px;
+  height: 197px;
+  width: 246px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.back7 {
+  position: relative;
+  font-size: var(--font-size-mini-8);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--body-text);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 35px;
+}
+.secondary-button-wrapper1,
+.secondary-button7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.secondary-button7 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-17xl);
+  background-color: var(--color-black);
+  border-radius: 7.42px;
+  flex-direction: row;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.secondary-button7:hover {
+  background-color: var(--color-darkslategray);
+}
+.secondary-button-wrapper1 {
+  flex-direction: column;
+  padding: var(--padding-58xl) 0 0;
+}
+.content-inner,
+.removebg-preview-2-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.removebg-preview-2-group {
+  width: 1355px;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-1229xl);
+  gap: var(--gap-1014xl);
+}
+.content-inner {
+  justify-content: flex-end;
+  padding: 0 var(--padding-3xl) 0 0;
+}
+.treatment2 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-limelight);
+}
+.preventive-measures-for,
+.treatment-for-tetanus {
+  margin: 0;
+}
+.treatment-treatment-for-container {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  min-width: 505px;
+  max-width: 100%;
+}
+.image-13-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.treatment-image1,
+.treatment-treatment-for-tetanu-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.treatment-image1 {
+  height: 355px;
+  width: 495px;
+  flex-direction: column;
+  padding: var(--padding-base) 0 0;
+  box-sizing: border-box;
+  min-width: 495px;
+  max-height: 90%;
+  overflow: auto;
+}
+.treatment-treatment-for-tetanu-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-15xl);
+}
+.top-products-used2 {
+  margin: 0;
+  font-family: var(--font-limelight);
+}
+.tetanus-vaccine-prevention {
+  margin: 0;
+}
+.tetanus-immune-globulin {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.antibiotics-eg-metronidazo,
+.supportive-care-and,
+.tetanus-toxoid-booster {
+  margin: 0;
+}
+.top-products-used-container2 {
+  position: relative;
+  font-size: var(--subheading-size);
+  line-height: 150%;
+  display: inline-block;
+  max-width: 100%;
+}
+.content5,
+.frame-parent3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent3 {
+  width: 1326px;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  gap: var(--gap-9xl);
+}
+.content5 {
+  align-items: flex-end;
+  padding: 0 var(--padding-xl) 0 0;
+  text-align: left;
+  font-size: var(--body-text-size);
+  color: var(--color-black);
+  font-family: var(--font-marcellus-sc);
+}
+.divider-wrapper1,
+.divider3 {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divider3 {
+  flex: 1;
+  position: relative;
+  border-top: 0.4px solid var(--color-gainsboro-100);
+}
+.divider-wrapper1 {
+  height: 0.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-2xl);
+}
+.medimap3 {
+  width: 227.7px;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  mix-blend-mode: normal;
+}
+.footer-content1 {
+  width: 478.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-38xl-6);
+  max-width: 100%;
+}
+.he-who-has {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+  font-weight: 800;
+}
+.he-who-has-health-has-hope-an-wrapper {
+  width: 392px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-2xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-mini);
+}
+.navigation-footer2 {
+  margin-left: -12px;
+  align-self: stretch;
+  border-radius: 7.14px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-44xl) var(--padding-33xl) var(--padding-22xl);
+  box-sizing: border-box;
+  max-width: 101%;
+  flex-shrink: 0;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--subheading-size);
+  color: var(--color-black);
+  font-family: var(--body-text);
+}
+.desktop-14 {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+  background-image: url(./public/desktop--99@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1400px) {
+  .removebg-preview-2-group {
+    flex-wrap: wrap;
+    gap: var(--gap-497xl);
+    padding-left: var(--padding-605xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .image-13-icon {
+    align-self: stretch;
+    width: auto;
+  }
+  .treatment-image1 {
+    flex: 1;
+  }
+  .navigation-footer2,
+  .treatment-treatment-for-tetanu-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 825px) {
+  .removebg-preview-2-group {
+    gap: var(--gap-239xl);
+    padding-left: var(--padding-293xl);
+    box-sizing: border-box;
+  }
+  .treatment-image1,
+  .treatment-treatment-for-container {
+    min-width: 100%;
+  }
+  .treatment-treatment-for-tetanu-parent {
+    gap: var(--gap-mid);
+  }
+  .footer-content1 {
+    gap: var(--gap-10xl);
+  }
+  .navigation-footer2 {
+    padding-right: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .removebg-preview-2-group {
+    gap: var(--gap-110xl);
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .treatment-treatment-for-container {
+    font-size: var(--small-text-size);
+    line-height: 38px;
+  }
+  .medimap3,
+  .top-products-used-container2 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+}

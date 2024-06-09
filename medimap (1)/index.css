@@ -1,0 +1,612 @@
+.home {
+  position: relative;
+  font-size: var(--small-text-size);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--body-text);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 46px;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) var(--padding-5xl);
+  background-color: var(--color-black);
+  box-shadow: var(--button-shadow);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button:hover {
+  background-color: var(--color-darkslategray);
+}
+.removebg-preview-1-icon1 {
+  height: 212px;
+  width: 173px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -88px;
+  left: -34px;
+  object-fit: cover;
+  z-index: 1;
+}
+.button-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 4px;
+  position: relative;
+}
+.diseases,
+.navigate-health-concerns {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-family: inherit;
+}
+.diseases {
+  font-size: inherit;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+.navigate-health-concerns {
+  font-size: var(--font-size-13xl);
+  line-height: 150%;
+  font-weight: 400;
+  color: var(--color-gray);
+}
+.diseases-parent {
+  width: 694px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.image-2-icon {
+  align-self: stretch;
+  height: 324px;
+  position: relative;
+  border-radius: 20px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  cursor: pointer;
+}
+.conjunctivitis-sorepink-eye,
+.get-your-cure {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-your-cure {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card,
+.copy {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card {
+  width: 621px;
+  background-color: var(--color-white);
+  justify-content: flex-start;
+  padding: 0 0 17px;
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.image-4-icon {
+  width: 398px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  cursor: pointer;
+}
+.get-your-cure1,
+.osteoarthritis {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-your-cure1 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card1,
+.copy1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy1 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card1 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0 0 23px;
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.image-5-icon {
+  align-self: stretch;
+  height: 330px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  cursor: pointer;
+}
+.get-your-cure2,
+.hypertension-high-blood1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-your-cure2 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card2,
+.copy2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy2 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card2 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-2xs);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.image-6-icon {
+  width: 509px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  cursor: pointer;
+}
+.cholera,
+.get-your-cure3 {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-your-cure3 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card3,
+.copy3 {
+  flex-direction: column;
+}
+.copy3 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card3 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-2xs);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+}
+.card3,
+.frame-parent,
+.projects,
+.projects-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.projects {
+  width: 1277px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  min-height: 902px;
+  gap: var(--gap-xl);
+}
+.frame-parent,
+.projects-wrapper {
+  justify-content: flex-start;
+}
+.projects-wrapper {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-10xs);
+  box-sizing: border-box;
+  font-size: var(--subheading-size);
+}
+.frame-parent {
+  flex-direction: column;
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-black);
+  font-family: var(--body-text);
+}
+.image-10-icon {
+  align-self: stretch;
+  height: 340px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  cursor: pointer;
+}
+.get-your-cure4,
+.rabies {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-your-cure4 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card4,
+.copy4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy4 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card4 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0 0 1px;
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  min-width: 590px;
+  max-width: 100%;
+}
+.image-14-icon {
+  align-self: stretch;
+  height: 342px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.get-your-cure5,
+.tetanus {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-your-cure5 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card5,
+.copy5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy5 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-9xs);
+  flex-shrink: 0;
+}
+.card5 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  min-width: 590px;
+  max-width: 100%;
+  cursor: pointer;
+}
+.image-16-icon {
+  align-self: stretch;
+  height: 330px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.get-your-cure6,
+.japanese-encephalitis {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-your-cure6 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card6,
+.copy6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy6 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card6 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-2xs);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  min-width: 590px;
+  max-width: 100%;
+  cursor: pointer;
+}
+.image-20-icon {
+  align-self: stretch;
+  height: 333px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.get-your-cure7,
+.leptospirosis {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-your-cure7 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+  white-space: pre-wrap;
+}
+.card7,
+.copy7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy7 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card7 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  min-width: 590px;
+  max-width: 100%;
+  cursor: pointer;
+}
+.projects-container,
+.projects1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.projects1 {
+  width: 1277px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0;
+  box-sizing: border-box;
+  min-height: 841px;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.projects-container {
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) var(--padding-44xl);
+  text-align: left;
+  font-size: var(--subheading-size);
+  color: var(--color-black);
+  font-family: var(--body-text);
+}
+.divider,
+.divider-wrapper,
+.projects-container {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divider {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-100);
+}
+.divider-wrapper {
+  width: 1280px;
+  height: 51px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-31xl);
+}
+.medimap {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 150%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.portfolio {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 56px 80px 149px;
+  box-sizing: border-box;
+  gap: 52px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--body-text);
+}
+@media screen and (max-width: 900px) {
+  .diseases {
+    font-size: var(--font-size-29xl);
+  }
+  .navigate-health-concerns {
+    font-size: 26px;
+    line-height: 38px;
+  }
+  .projects-container {
+    padding-bottom: var(--padding-22xl);
+    box-sizing: border-box;
+  }
+  .medimap {
+    font-size: var(--font-size-10xl);
+    line-height: 43px;
+  }
+  .portfolio {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 700px) {
+  .card4,
+  .card5,
+  .card6,
+  .card7 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .diseases {
+    font-size: var(--font-size-10xl);
+  }
+  .conjunctivitis-sorepink-eye,
+  .navigate-health-concerns {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-your-cure {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .osteoarthritis {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-your-cure1 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .hypertension-high-blood1 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-your-cure2 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .cholera {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-your-cure3 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .rabies {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-your-cure4 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .tetanus {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-your-cure5 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .japanese-encephalitis {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-your-cure6 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .leptospirosis {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-your-cure7 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .projects-container {
+    padding-bottom: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .medimap {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .portfolio {
+    gap: var(--gap-7xl);
+  }
+}
