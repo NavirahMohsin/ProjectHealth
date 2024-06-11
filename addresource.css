@@ -1,0 +1,16 @@
+.video-container {
+    position: relative;
+    width: 320px;
+    transition: width 0.5s, height 0.5s;
+}
+
+.video-container.expanded {
+    width: 100%;
+    height: auto;
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
+

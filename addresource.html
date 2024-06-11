@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Additional Resources</title>
+    <link rel="stylesheet" href="addresource.css">
+    <link rel="stylesheet" href="sidebar.css">
+    <style>
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            color: #fff;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .button:hover {
+            background-color: #0056b3;
+        }
+
+        .top-right {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        const video = document.getElementById('myVideo');
+        const videoContainer = document.querySelector('.video-container');
+
+        video.addEventListener('play', () => {
+            videoContainer.classList.add('expanded');
+        });
+
+        video.addEventListener('pause', () => {
+            videoContainer.classList.remove('expanded');
+        });
+
+        video.addEventListener('ended', () => {
+            videoContainer.classList.remove('expanded');
+        });
+
+    </script>
+    <div class="sidebar">
+        <center><b><i><u style="font-size:26px; color:azure;" >DISEASES</u></i></b></center>
+        <a href="#headache">Headache</a>
+        <a href="#commoncold">Common Cold</a>
+        <a href="#swimmerear">Swimmer's ear</a>
+        <a href="#conjunctivitis">Conjunctivitis</a>
+        <a href="#sorethroat">Sore Throat</a>
+        <a href="#cough">Cough</a>
+        <a href="#fever">Fever</a>
+        <a href="#stomachflu">Stomach Flu</a>
+        <a href="#bruise">Bruise</a>
+        <a href="#cramps">Mentrual Cramps</a>
+        <a href="#uti">Urinary Tract Infection</a>
+        <a href="#stiffjoint">Stiff Joint</a>
+        <a href="#highchol">High Cholesterol</a>
+        <a href="#hayfever">Hay Fever</a>
+        <a href="#thyroid">Thyroid</a>
+        <a href="#depression">Depression</a>
+        <a href="#gastritis">Gastritis</a>
+        <a href="#anxiety">Anxiety Disorder</a>
+        <a href="#anemia">Anemia</a>
+        <a href="#lunginfection">Lung Infection</a>
+        <a href="#sprain">Sprain</a>
+        <a href="#sweating">Excessive Sweating</a>
+        <a href="#acne">Acne</a>
+        <a href="#tb">Tuberculosis</a>
+        <a href="#dengue">Dengue Fever</a>
+        <a href="#malaria">Malaria</a>
+        <a href="#diarrhea">Diarrheal Diseases</a>
+        <a href="#typhoid">Typhoid</a>
+        <a href="#chikungunya">Chikungunya</a>
+        <a href="#respiratoryinf">Respiratory Infections</a>
+        <a href="#diabetes">Diabetes</a>
+        <a href="#copd">Chronic Pulmonary Disease</a>
+        <a href="#leptospirosis">Leptospirosis</a>
+        <a href="#je">Japanese Encephalitis</a>
+        <a href="#tetanus">Tetanus</a>
+        <a href="#rabies">Rabies</a>
+        <a href="#cholera">Cholera</a>
+        <a href="#hbp">High Blood Pressure</a>
+        <a href="#osteoarthritis">Osteoarthritis</a>
+    </div>
+    <div class="main-content">
+    <div class="gridcontainer">
+        <div class="one-third">
+            <img src="Logo3.jpg" width='250px' height="120px">
+        </div>
+        <div class="two-third">
+            <b><h1>Additional resources</h1></b>
+            <a href="homepagefinal.html" class="button top-right">Home</a>
+        </div>
+    </div>
+    <div id='headache'>
+        <p>Cephalagia(headache)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\headachecauses.png">
+                <source src="Resources_videos\Headache - Types and causes _ 3d Animation.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\6stepstoheadache.png">
+                <source src="Resources_videos\6 Steps to Relieve a Headache.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='commoncold'>
+        <p>Rhinovirus (Common Cold)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\commoncoldsymptoms.png">
+                <source src="Resources_videos\Common Cold, Causes, Signs and Symptoms, Diagnosis and Treatment..mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\coldorflu.png">
+                <source src="Resources_videos\Cold or Flu_.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='swimmerear'>
+        <p>Otitis externa (swimmer’s ear)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\causeofswimear.png">
+                <source src="Resources_videos\What causes Swimmer’s ear_ - Dr. P Harihara Murthy.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\swimmerseartreat.png">
+                <source src="Resources_videos\swimmers's ear treatment.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='conjunctivitis'>
+        <p>Conjunctivitis (sore/pink eye)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls>
+                <source src="Resources_videos\conjunctivitis.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls>
+                <source src="Resources_videos\Conjunctivitis_ symptoms and treatment for red, itchy, watery eyes _ NHS.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='sorethroat'>
+        <p>Pharyngitis (sore throat)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\sorethroatsymptoms.png">
+                <source src="Resources_videos\Sore throat_ symptoms and treatment _ NHS.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\ridsorethroat.png">
+                <source src="Resources_videos\How to get rid of a sore throat fast home remedies cure.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='cough'>
+        <p>Tussis (cough)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls>
+                <source src="Resources_videos\Why Do We Cough_.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\ridsorethroat.png">
+                <source src="Resources_videos\How to stop coughing and cough home remedy treatment remedies.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='fever'>
+        <p>Pyrexia (fever)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\fever101.png">
+                <source src="Resources_videos\Fever 101 _ OSF Healthcare.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\curefever.png">
+                <source src="Resources_videos\How to Cure a Fever at Home.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='stomachflu'>
+        <p>Gastroenteritis (stomach flu)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\mayostomachflu.png">
+                <source src="Resources_videos\Mayo Clinic Minute_ What is 'stomach flu_'.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\Naturalremediesstomachflu.png">
+                <source src="Resources_videos\5 Best Natural Remedies To Treat The Stomach Flu.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='bruise'>
+        <p>Contusion (bruise)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\ridbruises.png">
+                <source src="Resources_videos\How to Get Rid of Bruises.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls>
+                <source src="Resources_videos\How to Heal Bruises Naturally With Home Remedies _Proven Home Remedies to Get Rid of Bruises Quickly.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='cramps'>
+        <p>Dysmenorrhoea (menstrual cramps)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\whatareperiods.png">
+                <source src="Resources_videos\What Are Period Cramps_.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/extrapainfulcramps.png">
+                <source src="Resources_videos\What can I do about extremely painful cramps_ with Alexandra Band, DO and Melissa Jordan, MD.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='uti'>
+        <p>Cystitis (urinary tract infection)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\whatisuti.png">
+                <source src="Resources_videos\What is a urinary tract infection (UTI)_.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/mayouti.png">
+                <source src="Resources_videos\Mayo Clinic Minute_ Treating Urinary Tract Infections.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='stiffjoint'>
+        <p>Ankylosis (stiff joint)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\ankylosisexplained.png">
+                <source src="Resources_videos\Ankylosis (Stiff Joints) Explained_ Causes, Symptoms, and Prevention Tips!.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/treatingstiffjoint.png">
+                <source src="Resources_videos\Treating Stiff Joints.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='highchol'>
+        <p>Hyperlipidaemia (high cholesterol)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\highcholwdid.png">
+                <source src="Resources_videos\I Have High Cholesterol.. What Should I Do_.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/whyhighchol.png">
+                <source src="Resources_videos\Why You Might Have A HIGH Cholesterol - Doctor Explains.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='hayfever'>
+        <p>Allergic rhinitis (hay fever)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\asthmahayfever.png">
+                <source src="Resources_videos\Asthma and Hay Fever (Allergic Rhinitis).mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/hayfever.png">
+                <source src="Resources_videos\Hay Fever - Causes, Symptoms, Treatments & More….mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='thyroid'>
+        <p>Hypothyroidism (underactive thyroid)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\hypothyroidismaskanurse.png">
+                <source src="Resources_videos\Hypothyroidism (Underactive Thyroid)_ Symptoms, Diagnosis & Treatment - Ask A Nurse _ @LevelUpRN.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/dietthyroid.png">
+                <source src="Resources_videos\Nutrition & Diets _ Diet Tips for an Under-Active Thyroid.mp4"type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='depression'>
+        <p>Depression</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail\signsandtreatdepression.png">
+                <source src="Resources_videos\How to spot signs of and treat depression.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/fightdepression.png">
+                <source src="Resources_videos\Fight Depression and Burnout in 2 Minutes a Day_ 3 Good Things Activity.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='gastritis'>
+        <p>Gastritis</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/earlysigngastritis.png">
+                <source src="Resources_videos\5 Early signs of Gastritis.  Gastritis diagnosis and treatment.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/gastritisdiet.png">
+                <source src="Resources_videos\Gastritis Diet - Best & Worst Foods For Gastritis.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='anxiety'>
+        <p>Anxiety Disorders</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/whatanxiety.png">
+                <source src="Resources_videos\What is an Anxiety Disorder_.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/4WSOGAD.png">
+                <source src="Resources_videos\4 Warning Signs of Generalized Anxiety Disorder.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='anemia'>
+        <p>Iron Deficiency Anemia</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls>
+                <source src="Resources_videos\Iron deficiency anemia - an Osmosis Preview.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/anemiacuase.png">
+                <source src="Resources_videos\IRON DEFICIENCY ANEMIA_ Causes, Clinical Features, Pathophysiology, Diagnosis, Treatment _ Rhesus.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='lunginfection'>
+        <p>Chronic bronchitis (lung infection)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/chronicbronchitis.png"
+                <source src="Resources_videos\Chronic Bronchitis in 2 minutes!.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls>
+                <source src="Resources_videos\Treatment for Chronic & Acute Bronchitis - SLUCare Pulmonary.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='sprain'>
+        <p>Sprain (ligament injury)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/mayoanklesprain.png"
+                <source src="Resources_videos\Mayo Clinic Minute_ Ankle sprains 101.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/ligamentinjury.png">
+                <source src="Resources_videos\Lateral ligament ankle injury_ how is it managed_.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='sweating'>
+        <p>Hyperhidrosis (excessive sweating)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/hyperhidrosisaskanurse.png"
+                <source src="Resources_videos\Hyperhidrosis (Excessive Sweating) Diagnosis & Treatment - Ask A Nurse _ @LevelUpRN.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/hyperhidrosiscauses.png">
+                <source src="Resources_videos\Hyperhidrosis, Causes, Signs and Symptoms, Diagnosis and Treatment..mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='acne'>
+        <p>Acne vulgaris(ACNE)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/causeofacne.png"
+                <source src="Resources_videos\What causes acne and how you can prevent it.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/eatacne.png">
+                <source src="Resources_videos\What To Do If Your Skin Is Acne-Prone _ Foods You Should Eat & Avoid For Clear Skin _ Anti-Acne Diet.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='tb'>
+        <p>Tuberculosis (TB)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls>
+                <source src="Resources_videos\5 Things to Know About TB.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/tb2.png">
+                <source src="Resources_videos\Tuberculosis2.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='dengue'>
+        <p>Dengue Fever</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/denguecare.png">
+                <source src="Resources_videos\Dengue Fever_ Symptoms, Treatment and Prevention _ Dr Rahul Chirag _ CARE Hospitals, HITEC City.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls>
+                <source src="Resources_videos\How to Take Care of Dengue Patients_ - Dr. Anantharaman Ramakrishnan.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='malaria'>
+        <p>Malaria</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/whatmalaria.png">
+                <source src="Resources_videos\What is Malaria, Causes, Signs and Symptoms, Diagnosis and Treatment..mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/malariamanipal.png">
+                <source src="Resources_videos\Malaria - Symptoms & Treatment _ Manipal Hospitals.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='diarrhea'>
+        <p>Diarrheal Diseases</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/whatdiarhea.png">
+                <source src="Resources_videos\What is Diarrhea_ Causes, Signs and Symptoms, Diagnosis and Treatment..mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/diarhea.png">
+                <source src="Resources_videos\Diarrhea.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='typhoid'>
+        <p>Typhoid Fever</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/causeoftyphoid.png">
+                <source src="Resources_videos\What Causes Typhoid_ _ The Dr. Binocs Show _ Best Learning Videos For Kids _ Peekaboo Kidz.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/diettyphoid.png">
+                <source src="Resources_videos\Diet In Typhoid Fever.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='chikungunya'>
+        <p>Chikungunya</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/chikungunyaexplained.png">
+                <source src="Resources_videos\Chikungunya Fever, Causes, Signs and Symptoms,Diagnosis and Treatment..mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls>
+                <source src="Resources_videos\Chikungunya - Hard to pronounce, but easy to prevent..mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='respiratoryinf'>
+        <p>Respiratory Infections</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls>
+                <source src="Resources_videos\Understanding Respiratory Viruses.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/pneumonia.png">
+                <source src="Resources_videos\Pneumonia.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='diabetes'>
+        <p>Diabetes</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/diabetes12.png">
+                <source src="Resources_videos\Diabetes Mellitus (Type 1 & Type 2) for Nursing & NCLEX.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/eatdiabetes.png">
+                <source src="Resources_videos\Healthy Eating with Diabetes.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='copd'>
+        <p>Chronic Obstructive Pulmonary Disease (COPD)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/copdlong.png">
+                <source src="Resources_videos\COPD - Chronic Obstructive Pulmonary Disease for NCLEX l Chronic Bronchitis, Emphysema RN & LPN.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/copd.png">
+                <source src="Resources_videos\COPD - Chronic Obstructive Pulmonary Disease, Animation..mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='leptospirosis'>
+        <p>Leptospirosis</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/whatlepto.png">
+                <source src="Resources_videos\What is Leptospirosis_ How does it cause Organ Failure_ & How to treat_.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/leptospirosiayntk.png">
+                <source src="Resources_videos\Leptospirosis, Causes, Signs and Symptoms, Diagnosis and Treatment.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='je'>
+        <p>Japanese Encephalitis</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls>
+                <source src="Resources_videos\Japanese Encephalitis Explained.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/japaneauntk.png">
+                <source src="Resources_videos\Japanese Encephalitis_ Symptoms, Causes And Treatment, All You Need To Know  _ Health.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='tetanus'>
+        <p>Tetanus</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/whatiftetanus.png">
+                <source src="Resources_videos\What Is Tetanus and How Do You Get It_.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/tetanusshot.png">
+                <source src="Resources_videos\When Should You Get A Tetanus Shot_.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='rabies'>
+        <p>Rabies</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/rabiescauses.png">
+                <source src="Resources_videos\Rabies, Causes, SIgn and Symptoms, Diagnosis and Treatment..mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/humangetsrabies.png">
+                <source src="Resources_videos\What Happens When a Human Gets Rabies_.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='cholera'>
+        <p>Cholera</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/choleraeverything.png">
+                <source src="Resources_videos\CHOLERA_ Everything You Need To Know.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls>
+                <source src="Resources_videos\Treatment for cholera _ Cholera Prevention Steps - Dr. Ashoojit Kaur Anand_Doctors' Circle.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='hbp'>
+        <p>Hypertension (High Blood Pressure)</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/mayohypertension.png">
+                <source src="Resources_videos\Mayo Clinic Explains Hypertension.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/treatinghighbp.png">
+                <source src="Resources_videos\Treating High Blood Pressure.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+    <div id='osteoarthritis'>
+        <p>Osteoarthritis</p>
+        <div class="gridcontainer">
+        <div class="video-container one-third">
+            <video id="myVideo" width="320" height="240" controls>
+                <source src="Resources_videos\What is osteoarthritis_.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="video-container two-third">
+            <video id="myVideo" width="320" height="240" controls poster="videos_thumbnail/osteoarthritisknee.png">
+                <source src="Resources_videos\Osteoarthritis of the Knee - How To Manage It.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    
+</body>
+</html>
