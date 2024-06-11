@@ -1,0 +1,299 @@
+.removebg-preview-2-icon13 {
+  margin-left: -1279px;
+  height: 197px;
+  width: 246px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.back29 {
+  position: relative;
+  font-size: var(--font-size-mini-8);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--body-text);
+  color: var(--color-white);
+  text-align: left;
+}
+.secondary-button-wrapper8,
+.secondary-button28 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.secondary-button28 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-17xl);
+  background-color: var(--color-black);
+  border-radius: 7.42px;
+  flex-direction: row;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.secondary-button28:hover {
+  background-color: var(--color-darkslategray);
+}
+.secondary-button-wrapper8 {
+  flex-direction: column;
+  padding: var(--padding-58xl) 0 0;
+}
+.main-content-inner,
+.removebg-preview-2-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.removebg-preview-2-parent1 {
+  width: 1355px;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-1229xl);
+  gap: var(--gap-1014xl);
+}
+.main-content-inner {
+  justify-content: flex-end;
+  padding: 0 var(--padding-3xl) 0 0;
+}
+.treatment15 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-limelight);
+}
+.diagnosis-of-leptospirosis1,
+.prevention-of-leptospirosis1 {
+  margin: 0;
+}
+.treatment-diagnosis-of-container1 {
+  align-self: stretch;
+  height: 360px;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.top-products-used13 {
+  margin: 0;
+  font-family: var(--font-limelight);
+}
+.antibiotics-eg-doxycycline1,
+.ceftriaxone2,
+.intravenous-fluids1,
+.penicillin1,
+.symptomatic-treatment-for2 {
+  margin: 0;
+}
+.top-products-used-container13 {
+  width: 548px;
+  height: 216px;
+  position: relative;
+  font-size: var(--subheading-size);
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.treatment-diagnosis-of-leptosp-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  min-width: 505px;
+  max-width: 100%;
+}
+.image-67-icon1 {
+  width: 462px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  overflow: auto;
+}
+.main-content4,
+.sidebar {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.sidebar {
+  width: 1326px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  gap: 67px;
+  text-align: left;
+  font-size: var(--body-text-size);
+  color: var(--color-black);
+  font-family: var(--font-marcellus-sc);
+}
+.main-content4 {
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 var(--padding-xl) 0 0;
+}
+.divider-wrapper8,
+.divider15 {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divider15 {
+  flex: 1;
+  position: relative;
+  border-top: 0.4px solid var(--color-gainsboro-100);
+}
+.divider-wrapper8 {
+  height: 0.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-2xl);
+}
+.medimap15 {
+  width: 227.7px;
+  height: 36px;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  mix-blend-mode: normal;
+}
+.footer-content9,
+.footer-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.footer-logo {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: var(--gap-38xl-6);
+}
+.footer-content9 {
+  width: 478.3px;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-lg-5);
+  box-sizing: border-box;
+}
+.in-nothing-do {
+  height: 45px;
+  width: 392px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 150%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.navigation-footer13 {
+  margin-left: -12px;
+  align-self: stretch;
+  border-radius: 7.14px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-44xl) var(--padding-20xl) var(--padding-22xl);
+  box-sizing: border-box;
+  max-width: 101%;
+  flex-shrink: 0;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--subheading-size);
+  color: var(--color-black);
+  font-family: var(--body-text);
+}
+.desktop-101 {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-36xl);
+  background-image: url(./public/desktop--99@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1400px) {
+  .removebg-preview-2-parent1 {
+    flex-wrap: wrap;
+    gap: var(--gap-497xl);
+    padding-left: var(--padding-605xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .image-67-icon1 {
+    flex: 1;
+  }
+  .navigation-footer13,
+  .sidebar {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 825px) {
+  .removebg-preview-2-parent1 {
+    gap: var(--gap-239xl);
+    padding-left: var(--padding-293xl);
+    box-sizing: border-box;
+  }
+  .treatment-diagnosis-of-leptosp-parent {
+    min-width: 100%;
+  }
+  .sidebar {
+    gap: 33px;
+  }
+  .footer-logo {
+    gap: var(--gap-10xl);
+  }
+  .navigation-footer13 {
+    padding-right: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .desktop-101 {
+    gap: var(--gap-8xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .removebg-preview-2-parent1 {
+    gap: var(--gap-110xl);
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .treatment-diagnosis-of-container1 {
+    font-size: var(--small-text-size);
+    line-height: 38px;
+  }
+  .top-products-used-container13 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .treatment-diagnosis-of-leptosp-parent {
+    gap: var(--gap-lgi);
+  }
+  .sidebar {
+    gap: var(--gap-mid);
+  }
+  .medimap15 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+}

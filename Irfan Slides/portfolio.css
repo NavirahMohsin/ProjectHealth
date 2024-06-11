@@ -1,0 +1,621 @@
+.removebg-preview-1-icon8 {
+  margin-top: -69px;
+  margin-left: -1274px;
+  height: 242px;
+  width: 220px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.back13 {
+  position: relative;
+  font-size: var(--small-text-size);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--body-text);
+  color: var(--color-white);
+  text-align: left;
+}
+.button1,
+.removebg-preview-1-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) var(--padding-5xl);
+  background-color: var(--color-black);
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.button1:hover {
+  background-color: var(--color-darkslategray);
+}
+.removebg-preview-1-parent {
+  align-self: stretch;
+  height: 229px;
+  padding: var(--padding-37xl) 0 0 1273px;
+  box-sizing: border-box;
+  gap: 1054px;
+}
+.cure-your-health,
+.diseases1 {
+  align-self: stretch;
+  position: relative;
+}
+.diseases1 {
+  margin: 0;
+  height: 77px;
+  font-size: inherit;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.cure-your-health {
+  font-size: var(--subheading-size);
+  line-height: 150%;
+  color: var(--color-gray);
+}
+.diseases-group,
+.frame-wrapper1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.diseases-group {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xl);
+}
+.frame-wrapper1 {
+  width: 574px;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.image-2-icon1 {
+  align-self: stretch;
+  height: 314px;
+  position: relative;
+  border-radius: var(--br-xl);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  cursor: pointer;
+}
+.get-the-cure7,
+.typhoid-fever {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-the-cure7 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card8,
+.copy8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy8 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card8 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xl);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.image-4-icon2 {
+  width: 411px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  cursor: pointer;
+}
+.chikungunya,
+.get-the-cure8 {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-the-cure8 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card9,
+.copy9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy9 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card9 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-mini);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.image-58-icon {
+  width: 473px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  cursor: pointer;
+}
+.get-the-cure9,
+.hepatitis-b-and {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-the-cure9 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card10,
+.copy10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy10 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card10 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xl);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.image-61-icon {
+  width: 475px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  cursor: pointer;
+}
+.get-the-cure10,
+.respiratory-infections {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-the-cure10 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.copy11 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card11,
+.frame-parent6,
+.projects2 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.card11 {
+  width: 621px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+}
+.frame-parent6,
+.projects2 {
+  align-self: stretch;
+}
+.projects2 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  min-height: 902px;
+  gap: var(--gap-xl);
+  font-size: var(--subheading-size);
+}
+.frame-parent6 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-15xl);
+}
+.image-52-icon {
+  width: 464px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  cursor: pointer;
+}
+.diabetes,
+.get-the-cure11 {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-the-cure11 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card12,
+.copy12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy12 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card12 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.image-53-icon {
+  width: 462px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  cursor: pointer;
+}
+.chronic-obstructive-pulmonary,
+.get-the-cure12 {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-the-cure12 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card13,
+.copy13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy13 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card13 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-sm);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.image-67-icon {
+  width: 484px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.dengue-hemorrhagic-fever,
+.get-the-cure13 {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-the-cure13 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card14,
+.copy14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy14 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-9xs);
+  flex-shrink: 0;
+}
+.card14 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.image-47-icon {
+  width: 569px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  cursor: pointer;
+}
+.get-the-cure14,
+.malaria {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.get-the-cure14 {
+  font-size: var(--body-text-size);
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.card15,
+.copy15 {
+  flex-direction: column;
+}
+.copy15 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.card15 {
+  width: 621px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+}
+.card15,
+.frame-parent5,
+.projects3 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.projects3 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  min-height: 902px;
+  gap: var(--gap-xl);
+  font-size: var(--subheading-size);
+}
+.frame-parent5 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 73px;
+}
+.divider7,
+.frame-section {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.frame-section {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 var(--padding-12xs);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--title-size);
+  color: var(--color-black);
+  font-family: var(--body-text);
+}
+.divider7 {
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-100);
+}
+.medimap7 {
+  position: relative;
+  line-height: 150%;
+}
+.divider-parent,
+.frame-main,
+.portfolio1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.divider-parent {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 50px;
+  text-align: left;
+  font-size: var(--subheading-size);
+  color: var(--color-black);
+  font-family: var(--body-text);
+}
+.frame-main,
+.portfolio1 {
+  box-sizing: border-box;
+}
+.frame-main {
+  width: 1300px;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  gap: 122px;
+  max-width: 100%;
+}
+.portfolio1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: flex-end;
+  padding: 0 var(--padding-61xl) 92px 0;
+  gap: var(--gap-mini);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .removebg-preview-1-parent {
+    gap: 527px;
+    padding-left: 636px;
+    box-sizing: border-box;
+  }
+  .frame-main {
+    gap: 61px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .diseases1 {
+    font-size: 51px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .removebg-preview-1-parent {
+    gap: 263px;
+    padding-left: 318px;
+    box-sizing: border-box;
+  }
+  .frame-parent6 {
+    gap: var(--gap-mid);
+  }
+  .frame-parent5 {
+    gap: var(--gap-17xl);
+  }
+  .divider-parent {
+    gap: var(--gap-6xl);
+  }
+  .frame-main {
+    gap: var(--gap-11xl);
+  }
+  .portfolio1 {
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .removebg-preview-1-parent {
+    gap: 132px;
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .diseases1 {
+    font-size: var(--font-size-19xl);
+  }
+  .cure-your-health,
+  .typhoid-fever {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-the-cure7 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .chikungunya {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-the-cure8 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .hepatitis-b-and {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-the-cure9 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .respiratory-infections {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-the-cure10 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .diabetes {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-the-cure11 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .chronic-obstructive-pulmonary {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-the-cure12 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .dengue-hemorrhagic-fever {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-the-cure13 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .malaria {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .get-the-cure14 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .frame-parent5 {
+    gap: var(--gap-lg);
+  }
+  .medimap7 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .frame-main {
+    gap: var(--gap-mini);
+  }
+}
