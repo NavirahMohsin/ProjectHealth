@@ -1,0 +1,215 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Medimap</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster&effect=shadow-multiple">
+<link rel="stylesheet" href="searchbox.css">
+<!--FONTS-->
+<style>
+.w3-lobster {
+  font-family: "Lobster", Sans-serif;
+}
+#heading{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#content{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+</style>
+
+</head>
+
+<body>
+    
+    <div>
+    <div class="w3-third">
+        <center><img src="Logo3.jpg" width='250px' height="120px"></center>
+    </div>
+    <!--SEARCH BAR-->
+    <div class="search-container w3-padding-32 w3-twothird">
+    <center><input type="text" id="search-input" placeholder="Enter your disease...">
+        <button id="search-button" onclick="redirectToPage()">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                <path fill="#ffffff" d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+            </svg>
+        </button></center>
+    </div>
+    </div>
+    <!--NAVIGATION BAR-->
+    <div class="w3-bar w3-blue">
+        <a href="#home" class="w3-bar-item w3-button">Home</a>
+        <a href="#overview" class="w3-bar-item w3-button">Overview</a>
+        <a href="#aboutus" class="w3-bar-item w3-button">About Us</a>
+        <a href="#contact" class="w3-bar-item w3-button">Contact Us</a>
+        <a href="addresource.html" class="w3-bar-item w3-button">Additional Resources</a>
+    </div>
+    
+    <!--HOME-->
+    <div id="home" class="w3-container"></div>
+    
+    
+    <center><video controls loop autoplay muted>
+        <source src="homevdo2.mp4" type="video/mp4" width="100%" height="600px">
+    </video></center>
+    
+    <center><p class="w3-container w3-lobster w3-xxxlarge font-effect-shadow-multiple"> Our Focus Is On Holistic Healing </p></center>
+    <div id="overview" class="w3-container w3-padding-16">
+    <hr>
+    <!--OVERVIEW-->
+        <h1 id='heading' class="w3-center w3-blue">Introduction to Medimap</h1>
+        <div class="w3-half">
+        <p id="content">Welcome to Medimap,Your ultimate destination for comprehensive healthcare information and support.
+            It provides users with reliable information and resources about various diseases, symptoms, causes, and care options.
+            Our website is dedicated to empowering individuals with valuable resources and insights to better understand and manage their health.</p>
+            <b><u><p>KEY FEATURES-</p></u></b>
+        <dl>
+            <dt id="content">&#8902;<b>Disease Encyclopedia</b></dt>
+            <dd id="content">Dive deep into our extensive database of diseases, where you'll find comprehensive information on symptoms, causes, risk factors, diagnosis, treatment options, and more.
+            </dd>
+            <dt id="content">&#8902;<b>Educational Resources</b></dt>
+            <dd id="content">Expand your health literacy with our curated collection of articles, videos, infographics, and other educational materials covering a wide range of health topics and concerns.</dd>
+        </dl>
+        </div>
+        <div class="w3-half">
+            <img class="w3-padding-32" src="overview.png" style="width:100%">
+        </div>
+        </div>
+        <hr>
+        <!--ABOUT US-->
+        <div id="aboutus" class="w3-container w3-padding-16">
+        <h1 id='heading' class="w3-center w3-blue">Get to know us !</h1>
+        <div class="w3-half">
+            <center><img class="w3-circle w3-padding-32" src="aboutus.png" style="width:75%"></center>
+        </div>
+        <div class="w3-half">
+        <p id="content">At Medimap, we offer more than just information — we offer empowerment.</p>
+        <p id="content">We believe that everyone deserves access to accurate, reliable, and empowering healthcare resources to make informed decisions about their health and well-being.
+        </p>
+        <dl>
+            <b><dt id="content">&#9755; Our Vision-</dt></b>
+            <dd id="content">We envision a future where healthcare is accessible, equitable, and personalized for every individual.
+                We strive to be a catalyst for positive change in the healthcare landscape, fostering a community of empowered individuals who are proactive about their health.</dd>
+            </dl>
+        <center><div class="w3-card-4 w3-padding-5" style="width:50%">
+
+                <header class="w3-container w3-blue" style="width:100%">
+                  <h1>MEET THE TEAM</h1>
+                </header>
+                
+                <center><div class="w3-container">
+                    <ul class="w3-ul w3-card-4" style="width:75%">
+                        <li>Navirah Mohsin</li>
+                        <li>Irfan Sirkar</li>
+                        <li>Tasneem Sultana</li>
+                        <li>Fakruddin Syed</li>
+                        <li>Syed Anwar Shazeb</li>
+                      </ul>
+                </div></center>
+                
+                <footer class="w3-container w3-blue" style="width:100%">
+                  <h5>-AI&DS(B)</h5>
+                </footer>
+                
+                </div></center>
+        </div>
+        </div>
+        <!----DOCTOR-->
+        <div id="aboutdoctor" class="w3-container w3-padding-16">
+        <h1 id='heading' class="w3-center w3-blue">Meet Our Medical Expert: Dr. Nabiha Muneer, MBBS</h1>
+        <div class="w3-half">
+        <p id="content"><b>Dr. Nabiha Muneer, MBBS</b>, serves as a dedicated Duty Medical Officer at Apollo Hospital 
+            Hyderguda. With her expertise in emergency medicine and commitment to patient-centered care, Dr. Muneer 
+            ensures exceptional care for all our patients.Her professional journey has equipped her with a diverse 
+            Her empathetic approach and attention to detail foster a supportive environment where patients feel valued 
+            and empowered in their healthcare decisions.skill set, including proficiency in patient assessment, treatment 
+            planning, and emergency medical procedures.We are honored to have Dr. Nabiha Muneer as an integral part of our 
+            healthcare team. Her dedication to patient care and unwavering commitment to excellence embody the values of medicine. 
+            Please join us in extending a warm welcome to Dr. Muneer and experiencing her exceptional care firsthand.</p>
+        </div>
+        <div class="w3-half">
+        <center><div class="w3-card" style="width:50%">
+            <img src="dr.jpg" alt="Person" style="width:100%">
+            <div class="w3-container">
+              <h4><b>Dr. Nabiha Muneer</b></h4>
+              <p>MBBS- Apollo Hospital,Hyderguda</p>
+            </div>
+          </div></center>
+        </div>
+        </div>
+        <hr>
+        <!--CONTACT-->
+        <div id="contact" class="w3-container w3-padding-16">
+            <hr>
+        <h1 id='heading' class="w3-center w3-blue">Contact Us </h1>
+        <div class='w3-half'>
+            <center><b><p id="content">Call us at:</p></b>
+            <p id="content">&#9742;+91 95503 95524</p>
+            <p id="content">&#9742;+91 93913 33952</p></center>
+        </div>
+        <div class='w3-half'>
+            <center><b><p id="content">Mail us at:</p></b>
+            <p id="content">&#9993;160423747063@mjcollege.ac.in</p>
+            <p id="content">&#9993;160423747083@mjcollege.ac.in</p></center>
+        </div>
+        </div>
+
+
+        <script>
+            function redirectToPage() {
+                var page = document.getElementById('search-input').value;
+                var pages = {
+                    'depression': 'page1/Depression.html',
+                    'acne':'page1/Acne Vulgaris1.html',
+                    'ankylosis':'page1/Ankylosis.html',
+                    'anxiety':'page1/Anxiety Disorders.html',
+                    'bruise':'page1/bruise.html',
+                    'chikungunya':'page1/Chikungunya1.html',
+                    'cholera':'page1/Cholera1.html',
+                    'bronchitis':'page1/Chronic Bronchitis1.html',
+                    'common cold':'page1/Common Cold.html',
+                    'pulmonary disorder':'page1/copd1.html',
+                    'cough':'page1/cough.html',
+                    'cystisis':'page1/Cystitis.html',
+                    'dengue':'page1/DengueFever1.html',
+                    'severe dengue':'page1/denguehemm.html',
+                    'diabetes':'page1/Diabetes1.html',
+                    'fever':'page1/fever.html',
+                    'gastritis':'page1/Gastritis.html',
+                    'hay fever':'page1/Hayfever.html',
+                    'headache':'page1/Headache.html',
+                    'hepatitis':'page1/Hepatitis1.html',
+                    'high blood pressure':'page1/highbp.html',
+                    'high cholesterol':'page1/Highchol.html',
+                    'excess sweating':'page1/Hyperhidrosis1.html',
+                    'thyroid':'page1/Hypothyroidism.html',
+                    'anemia':'page1/Iron Deficiency AnemiaIron1.html',
+                    'japanese encephalitis':'page1/Japan1.html',
+                    'leptospirosis':'page1/Lepto1.html',
+                    'malaria':'page1/Malaria1.html',
+                    'menstrual cramps':'page1/Menstrualcramps.html',
+                    'conjunctivitis':'page1/Pinkeye1.html',
+                    'rabies':'page1/Rabies.html',
+                    'respiratory infection':'page1/Resp1.html',
+                    'sore throat':'page1/sore throat.html',
+                    'sprain':'page1/Sprain1.html',
+                    'stomach flu':'page1/stomach flu.html',
+                    'swimmers ear':'page1/swimmer’s ear.html',
+                    'tetanus':'page1/Tetanus1.html',
+                    'tuberculosis':'page1/Tuberculosis1.html',
+                    'typhoid':'page1/Typhoid1.html'
+
+                    
+                };
+                if (pages[page]) {
+                    window.location.href = pages[page];
+                } else {
+                    alert('Page not found!');
+                }
+            }
+        </script>
+    </body>
+</html>
