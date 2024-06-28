@@ -1,0 +1,285 @@
+.removebg-preview-2-icon11 {
+  margin-left: -1279px;
+  height: 197px;
+  width: 246px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.back23 {
+  position: relative;
+  font-size: var(--font-size-mini-8);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--subheading);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 35px;
+}
+.call-to-action1,
+.main-content3,
+.secondary-button22 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.secondary-button22 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-17xl);
+  background-color: var(--color-black);
+  border-radius: 7.42px;
+  flex-direction: row;
+  flex-shrink: 0;
+}
+.secondary-button22:hover {
+  background-color: var(--color-darkslategray);
+}
+.call-to-action1,
+.main-content3 {
+  flex-direction: column;
+  padding: var(--padding-58xl) 0 0;
+}
+.main-content3 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-1229xl);
+  gap: var(--gap-1014xl);
+}
+.treatment12 {
+  margin: 0;
+}
+.span3 {
+  font-family: var(--font-abyssinica-sil);
+}
+.while-theres-no-cure-for-oste {
+  margin: 0;
+  font-size: var(--subheading-size);
+  font-family: var(--font-marcellus-sc);
+}
+.treatment-while-theres-container {
+  align-self: stretch;
+  height: 380px;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.top-products-used11 {
+  margin: 0;
+  font-family: var(--font-limelight);
+}
+.acetaminophen-paracetamol,
+.hyaluronic-acid-injections,
+.intra-articular-corticosteroid,
+.nsaids-eg-ibuprofen,
+.topical-creamsgels-eg {
+  margin: 0;
+}
+.top-products-used-container11 {
+  width: 548px;
+  position: relative;
+  font-size: var(--subheading-size);
+  line-height: 150%;
+  display: inline-block;
+  max-width: 100%;
+  font-family: var(--font-marcellus-sc);
+}
+.treatment-while-theres-no-cu-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+  min-width: 505px;
+  max-width: 100%;
+}
+.image-4-icon4 {
+  width: 398px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.frame-parent13 {
+  width: 1304px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  gap: 109px;
+}
+.content10,
+.divider13,
+.frame-parent13,
+.logo {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.content10 {
+  width: 1375px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-limelight);
+}
+.divider13,
+.logo {
+  align-self: stretch;
+}
+.divider13 {
+  flex: 1;
+  position: relative;
+  border-top: 0.4px solid var(--color-gainsboro-100);
+}
+.logo {
+  height: 0.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-2xl);
+}
+.medimap13 {
+  width: 227.7px;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  mix-blend-mode: normal;
+}
+.branding {
+  width: 478.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-38xl-6);
+  max-width: 100%;
+}
+.it-is-health2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+  font-weight: 800;
+}
+.navigation-footer12,
+.quote {
+  display: flex;
+  box-sizing: border-box;
+}
+.quote {
+  width: 392px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-xl);
+  max-width: 100%;
+  font-size: var(--font-size-mini);
+}
+.navigation-footer12 {
+  margin-left: -12px;
+  align-self: stretch;
+  border-radius: 7.14px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-44xl) var(--padding-33xl) var(--padding-22xl);
+  max-width: 101%;
+  flex-shrink: 0;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--subheading-size);
+  color: var(--color-black);
+  font-family: var(--subheading);
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-27xl);
+  background-image: url(./public/desktop--101@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1400px) {
+  .main-content3 {
+    flex-wrap: wrap;
+    gap: var(--gap-497xl);
+    padding-left: var(--padding-605xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .image-4-icon4 {
+    flex: 1;
+  }
+  .frame-parent13,
+  .navigation-footer12 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 825px) {
+  .main-content3 {
+    gap: var(--gap-239xl);
+    padding-left: var(--padding-293xl);
+    box-sizing: border-box;
+  }
+  .treatment-while-theres-no-cu-parent {
+    min-width: 100%;
+  }
+  .frame-parent13 {
+    gap: 54px;
+  }
+  .branding {
+    gap: var(--gap-10xl);
+  }
+  .navigation-footer12 {
+    padding-right: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .desktop-4 {
+    gap: var(--gap-4xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .main-content3 {
+    gap: var(--gap-110xl);
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .treatment-while-theres-container {
+    font-size: var(--font-size-lgi);
+    line-height: 43px;
+  }
+  .top-products-used-container11 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .frame-parent13 {
+    gap: var(--gap-8xl);
+  }
+  .medimap13 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+}

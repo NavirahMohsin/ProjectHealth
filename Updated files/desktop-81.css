@@ -1,0 +1,323 @@
+.typhoid-fever1 {
+  margin: 0;
+  width: 785px;
+  position: relative;
+  font-size: inherit;
+  line-height: 116px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.symptoms-icon {
+  height: 50px;
+  width: 45px;
+  position: relative;
+}
+.back3 {
+  position: relative;
+  font-size: var(--font-size-mini-8);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--subheading);
+  color: var(--color-white);
+  text-align: left;
+}
+.secondary-button2,
+.symptoms-icon-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.secondary-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-17xl);
+  background-color: var(--color-black);
+  border-radius: 7.42px;
+  align-items: flex-start;
+}
+.primary-button:hover,
+.secondary-button2:hover {
+  background-color: var(--color-darkslategray);
+}
+.symptoms-icon-parent {
+  align-items: flex-end;
+  gap: var(--gap-2xl);
+}
+.typhoid-content,
+.typhoid-symptoms {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.typhoid-symptoms {
+  flex-direction: column;
+  padding: var(--padding-10xl) 0 0;
+  margin-left: -240px;
+}
+.typhoid-content {
+  width: 785px;
+  flex-direction: row;
+  max-width: 100%;
+}
+.typhoid-fever-also,
+.typhoid-fever-is {
+  margin: 0;
+}
+.typhoid-fever-also-container {
+  height: 261px;
+  width: 429px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -101px;
+  left: 11px;
+  line-height: 150%;
+  display: inline-block;
+  z-index: 1;
+}
+.image-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 10.26px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-container {
+  height: 370px;
+  width: 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) 0 0;
+  box-sizing: border-box;
+  min-width: 450px;
+  max-width: 100%;
+}
+.causes-and-symptoms {
+  margin: 0;
+}
+.causestyphoid-fever-is-a-life1,
+.salmonella-typhi-lives-only-in {
+  margin-bottom: 0;
+}
+.causestyphoid-fever-is-a-life {
+  margin: 0;
+  font-family: var(--font-marcellus-sc);
+  font-size: var(--body-text-size);
+  padding-left: var(--padding-8xl);
+}
+.causes-and-symptoms-container {
+  height: 544px;
+  flex: 1;
+  position: relative;
+  line-height: 200%;
+  display: flex;
+  align-items: center;
+  text-shadow: 1px 0 0 rgba(0, 0, 0, 0.2), 0 1px 0 rgba(0, 0, 0, 0.2),
+    -1px 0 0 rgba(0, 0, 0, 0.2), 0-1px 0 rgba(0, 0, 0, 0.2);
+  min-width: 541px;
+  max-width: 100%;
+}
+.description-content,
+.description-image {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.description-image {
+  flex: 1;
+  gap: var(--gap-38xl);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-limelight);
+}
+.description-content {
+  width: 1360px;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+}
+.typhoid-description {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  font-size: var(--body-text-size);
+  font-family: var(--font-marko-one);
+}
+.desktop-81-inner,
+.typhoid-content-parent,
+.typhoid-description {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.typhoid-content-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-lg);
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-black);
+  font-family: var(--font-jomhuria);
+}
+.desktop-81-inner {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 47px var(--padding-xl);
+  box-sizing: border-box;
+}
+.blank-line {
+  margin: 0;
+}
+.get-the-cure8,
+.text {
+  line-height: 150%;
+  font-weight: 500;
+}
+.text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+.get-the-cure8 {
+  position: relative;
+  font-size: var(--subheading-size);
+  font-family: var(--subheading);
+  color: var(--color-white);
+  text-align: left;
+}
+.primary-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xl-5) var(--padding-xl);
+  background-color: var(--color-black);
+  position: absolute;
+  top: 6px;
+  left: 487px;
+  border-radius: var(--br-8xs-1);
+  width: 466px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  max-width: 100%;
+  z-index: 1;
+}
+.footer,
+.label {
+  position: relative;
+  max-width: 100%;
+}
+.footer {
+  width: 1138px;
+  height: 170px;
+}
+.label {
+  flex: 1;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.desktop-81,
+.input-field {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  text-align: left;
+  font-family: var(--subheading);
+}
+.input-field {
+  align-self: stretch;
+  border-radius: var(--br-8xs-1);
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-gainsboro-200);
+  flex-direction: row;
+  padding: var(--padding-3xl) var(--padding-6xs) var(--padding-3xl)
+    var(--padding-5xs);
+  max-width: 100%;
+  font-size: var(--body-text-size);
+  color: var(--color-gray);
+}
+.desktop-81 {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-33xl) 0 0;
+  background-image: url(./public/desktop--5@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  line-height: normal;
+  letter-spacing: normal;
+  font-size: var(--font-size-smi-3);
+  color: var(--color-black);
+}
+@media screen and (max-width: 1100px) {
+  .image-1-icon {
+    align-self: stretch;
+    width: auto;
+  }
+  .image-container {
+    flex: 1;
+  }
+  .description-image {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .typhoid-fever1 {
+    font-size: var(--font-size-29xl);
+    line-height: 86px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .causes-and-symptoms-container,
+  .image-container {
+    min-width: 100%;
+  }
+  .description-image {
+    gap: var(--gap-9xl);
+  }
+  .desktop-81-inner {
+    padding-bottom: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .typhoid-fever1 {
+    font-size: var(--font-size-10xl);
+    line-height: 58px;
+  }
+  .typhoid-fever-also-container {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .causes-and-symptoms-container,
+  .label {
+    font-size: var(--small-text-size);
+    line-height: 51px;
+  }
+  .label {
+    line-height: 24px;
+  }
+}

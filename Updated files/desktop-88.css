@@ -1,0 +1,299 @@
+.back4 {
+  position: relative;
+  font-size: var(--font-size-mini-8);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--subheading);
+  color: var(--color-white);
+  text-align: left;
+}
+.secondary-button-frame,
+.secondary-button3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.secondary-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-17xl);
+  background-color: var(--color-black);
+  border-radius: 7.42px;
+  justify-content: flex-start;
+}
+.secondary-button3:hover {
+  background-color: var(--color-darkslategray);
+}
+.secondary-button-frame {
+  width: 277px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.removebg-preview-2-icon2 {
+  width: 246px;
+  height: 197px;
+  position: relative;
+  object-fit: contain;
+  display: none;
+}
+.treatment2 {
+  margin: 0;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-limelight);
+}
+.span1 {
+  font-size: var(--subheading-size);
+  font-family: var(--font-chela-one);
+}
+.even-when-the,
+.it-is-important,
+.typhoid-fever-can-be-treated-w {
+  margin: 0;
+}
+.take-prescribed-antibiotics-fo1,
+.wash-their-hands-with-soap-and {
+  margin-bottom: 0;
+}
+.take-prescribed-antibiotics-fo {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.treatment-typhoid-fever-container {
+  height: 392px;
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  min-width: 519px;
+  max-width: 100%;
+}
+.image-2-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-2-wrapper,
+.treatment-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.image-2-wrapper {
+  height: 332px;
+  width: 526px;
+  flex-direction: column;
+  padding: var(--padding-23xl) 0 0;
+  box-sizing: border-box;
+  min-width: 526px;
+}
+.treatment-content {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 37px;
+}
+.top-products-used2 {
+  margin: 0;
+  font-family: var(--font-limelight);
+}
+.azithromycin,
+.cefixime,
+.ceftriaxone1,
+.ciprofloxacin,
+.ofloxacin {
+  margin: 0;
+}
+.top-products-used-container2 {
+  height: 175.4px;
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  max-width: 100%;
+}
+.top-products-used-by-the-world-container {
+  width: 577px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs);
+  box-sizing: border-box;
+  font-size: var(--subheading-size);
+}
+.desktop-88-inner,
+.top-products-used-by-the-world-container,
+.treatment-content-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.treatment-content-parent {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 19.3px;
+}
+.desktop-88-inner {
+  width: 1418px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-9xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--body-text-size);
+  color: var(--color-black);
+  font-family: var(--font-marcellus-sc);
+}
+.divider-frame,
+.divider3 {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divider3 {
+  flex: 1;
+  position: relative;
+  border-top: 0.4px solid var(--color-gainsboro-100);
+}
+.divider-frame {
+  height: 0.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-2xl);
+}
+.medimap3 {
+  width: 227.7px;
+  height: 36px;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  mix-blend-mode: normal;
+}
+.footer-content {
+  width: 478.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-38xl-6);
+  max-width: 100%;
+}
+.to-ensure-good {
+  align-self: stretch;
+  height: 68px;
+  position: relative;
+  line-height: 150%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.to-ensure-good-health-eat-lig-wrapper {
+  width: 399px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-mini);
+}
+.desktop-88,
+.navigation-footer2 {
+  overflow: hidden;
+  display: flex;
+  box-sizing: border-box;
+}
+.navigation-footer2 {
+  align-self: stretch;
+  border-radius: 7.14px;
+  background-color: var(--color-white);
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 90px var(--padding-3xl) var(--padding-22xl);
+  max-width: 101%;
+  flex-shrink: 0;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--subheading-size);
+  color: var(--color-black);
+  font-family: var(--subheading);
+}
+.desktop-88 {
+  width: 100%;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-58xl) 0 0;
+  gap: 38.7px;
+  background-image: url(./public/desktop--99@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1150px) {
+  .image-2-icon1 {
+    align-self: stretch;
+    width: auto;
+  }
+  .image-2-wrapper {
+    flex: 1;
+  }
+  .treatment-content {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .navigation-footer2 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .image-2-wrapper,
+  .treatment-typhoid-fever-container {
+    min-width: 100%;
+  }
+  .treatment-content {
+    gap: var(--gap-lg);
+  }
+  .footer-content {
+    gap: var(--gap-10xl);
+  }
+  .navigation-footer2 {
+    padding-right: 45px;
+    box-sizing: border-box;
+  }
+  .desktop-88 {
+    gap: var(--gap-lgi);
+  }
+}
+@media screen and (max-width: 450px) {
+  .treatment-typhoid-fever-container {
+    font-size: var(--small-text-size);
+    line-height: 43px;
+  }
+  .medimap3,
+  .top-products-used-container2 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .navigation-footer2 {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

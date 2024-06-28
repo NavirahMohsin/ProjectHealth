@@ -1,0 +1,322 @@
+.removebg-preview-2-icon3 {
+  margin-left: -1279px;
+  height: 197px;
+  width: 246px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.back5 {
+  position: relative;
+  font-size: var(--font-size-mini-8);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--subheading);
+  color: var(--color-white);
+  text-align: left;
+}
+.main,
+.secondary-button-wrapper1,
+.secondary-button4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.secondary-button4 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-17xl);
+  background-color: var(--color-black);
+  border-radius: 7.42px;
+  flex-direction: row;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.secondary-button4:hover {
+  background-color: var(--color-darkslategray);
+}
+.main,
+.secondary-button-wrapper1 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.main {
+  height: 176px;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: var(--padding-58xl) var(--padding-66xl) 0 var(--padding-1229xl);
+  box-sizing: border-box;
+  gap: var(--gap-1014xl);
+}
+.treatment3 {
+  margin: 0;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-limelight);
+}
+.blank-line1,
+.paracetamol-or-acetaminophen,
+.the-clinical-management,
+.while-there-are {
+  margin: 0;
+}
+.treatment-the-clinical-container {
+  align-self: stretch;
+  height: 433px;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.top-products-used3 {
+  margin: 0;
+}
+.nsaids-eg,
+.symptomatic-treatment {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.paracetamol {
+  margin: 0;
+}
+.topical-creams-for {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.insect-repellents {
+  margin: 0;
+}
+.top-products-used-container3 {
+  height: 252px;
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  max-width: 100%;
+}
+.top-products-used-by-the-world-frame,
+.treatment-the-clinical-manage-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.top-products-used-by-the-world-frame {
+  width: 588px;
+  flex-direction: row;
+  padding: 0 var(--padding-2xl);
+  box-sizing: border-box;
+  font-family: var(--font-limelight);
+}
+.treatment-the-clinical-manage-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-10xs);
+}
+.image-4-icon2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.content,
+.frame-parent2,
+.image-4-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-4-wrapper {
+  height: 394px;
+  width: 398px;
+  flex-direction: column;
+  padding: var(--padding-14xl) 0 0;
+  box-sizing: border-box;
+  min-width: 398px;
+  max-width: 100%;
+  max-height: 90%;
+  overflow: auto;
+}
+.content,
+.frame-parent2 {
+  flex-direction: row;
+}
+.frame-parent2 {
+  flex: 1;
+  gap: 130px;
+  max-width: 100%;
+}
+.content {
+  width: 1405px;
+  padding: 0 var(--padding-31xl);
+  text-align: left;
+  font-size: var(--subheading-size);
+  color: var(--color-black);
+  font-family: var(--font-marcellus-sc);
+}
+.content,
+.divider-wrapper1,
+.divider4 {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divider4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-top: 0.4px solid var(--color-gainsboro-100);
+}
+.divider-wrapper1 {
+  width: 499.3px;
+  height: 0.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xl);
+}
+.medimap4 {
+  align-self: stretch;
+  height: 36px;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  mix-blend-mode: normal;
+}
+.medimap-wrapper {
+  width: 227.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) 0 0;
+  box-sizing: border-box;
+}
+.the-greatest-wealth {
+  height: 23px;
+  width: 392px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 150%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.footer-content1 {
+  width: 1336px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.desktop-89,
+.navigation-footer3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navigation-footer3 {
+  margin-left: -12px;
+  align-self: stretch;
+  border-radius: 7.14px;
+  background-color: var(--color-white);
+  padding: 0 var(--padding-22xl) var(--padding-14xl);
+  box-sizing: border-box;
+  gap: 33.6px;
+  max-width: 101%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--subheading-size);
+  color: var(--color-black);
+  font-family: var(--subheading);
+}
+.desktop-89 {
+  width: 100%;
+  position: relative;
+  gap: 1.5px;
+  background-image: url(./public/desktop--99@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .main {
+    gap: var(--gap-497xl);
+    padding-left: var(--padding-605xl);
+    padding-right: var(--padding-23xl);
+    box-sizing: border-box;
+  }
+  .image-4-icon2 {
+    align-self: stretch;
+    width: auto;
+  }
+  .image-4-wrapper {
+    flex: 1;
+  }
+  .frame-parent2 {
+    flex-wrap: wrap;
+    gap: 65px;
+  }
+  .content {
+    padding-left: var(--padding-6xl);
+    padding-right: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .main {
+    gap: var(--gap-239xl);
+    padding-left: var(--padding-293xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .image-4-wrapper,
+  .treatment-the-clinical-manage-parent {
+    min-width: 100%;
+  }
+  .frame-parent2 {
+    gap: var(--gap-13xl);
+  }
+  .footer-content1 {
+    flex-wrap: wrap;
+  }
+  .navigation-footer3 {
+    gap: var(--gap-mid);
+  }
+}
+@media screen and (max-width: 450px) {
+  .main {
+    gap: var(--gap-110xl);
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .top-products-used-container3,
+  .treatment-the-clinical-container {
+    font-size: var(--font-size-lgi);
+    line-height: 43px;
+  }
+  .top-products-used-container3 {
+    line-height: 29px;
+  }
+  .frame-parent2 {
+    gap: var(--gap-base);
+  }
+  .medimap4 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+}

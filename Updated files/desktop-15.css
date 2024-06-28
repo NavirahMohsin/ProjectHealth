@@ -1,0 +1,277 @@
+.removebg-preview-2-icon9 {
+  margin-left: -1279px;
+  height: 197px;
+  width: 246px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.back18 {
+  position: relative;
+  font-size: var(--font-size-mini-8);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--subheading);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 35px;
+}
+.content7,
+.secondary-button-container1,
+.secondary-button17 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.secondary-button17 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-17xl);
+  background-color: var(--color-black);
+  border-radius: 7.42px;
+  flex-direction: row;
+  flex-shrink: 0;
+}
+.secondary-button17:hover {
+  background-color: var(--color-darkslategray);
+}
+.content7,
+.secondary-button-container1 {
+  flex-direction: column;
+  padding: var(--padding-58xl) 0 0;
+}
+.content7 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-66xl) 0 var(--padding-1229xl);
+  gap: var(--gap-1014xl);
+}
+.treatment10 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-limelight);
+}
+.while-there-is {
+  margin: 0;
+}
+.bronchodilators-relax-the-mus,
+.medications2,
+.oxygen-therapy-for-patients-w,
+.pulmonary-rehabilitation-a-co,
+.smoking-cessation-the-most-cr1 {
+  margin-bottom: 0;
+}
+.smoking-cessation-the-most-cr {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.treatment-while-there-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.top-products-used9 {
+  margin: 0;
+  font-family: var(--font-limelight);
+}
+.bronchodilators-eg-salbuta {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.antibiotics-for-exacerbations,
+.inhaled-corticosteroids1,
+.oxygen-therapy,
+.pulmonary-rehabilitation {
+  margin: 0;
+}
+.top-products-used-container9 {
+  width: 549px;
+  position: relative;
+  font-size: var(--subheading-size);
+  line-height: 150%;
+  display: inline-block;
+  max-width: 100%;
+}
+.desktop-15-inner,
+.treatment-while-there-is-no-cu-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.treatment-while-there-is-no-cu-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-8xl);
+}
+.desktop-15-inner {
+  width: 919px;
+  flex-direction: row;
+  padding: 0 var(--padding-52xl) 46px;
+  box-sizing: border-box;
+}
+.divider10,
+.logo-container {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divider10 {
+  flex: 1;
+  position: relative;
+  border-top: 0.4px solid var(--color-gainsboro-100);
+}
+.logo-container {
+  height: 0.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-2xl);
+}
+.medimap10 {
+  width: 227.7px;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  mix-blend-mode: normal;
+}
+.footer-content6,
+.logo-container-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.logo-container-parent {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: var(--gap-38xl-6);
+}
+.footer-content6 {
+  width: 478.3px;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-6xl);
+  box-sizing: border-box;
+}
+.health-is-a {
+  width: 392px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 150%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.navigation-footer9 {
+  margin-left: -12px;
+  align-self: stretch;
+  border-radius: 7.14px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-44xl) var(--padding-8xl) var(--padding-22xl);
+  box-sizing: border-box;
+  max-width: 101%;
+  flex-shrink: 0;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--subheading-size);
+  color: var(--color-black);
+  font-family: var(--subheading);
+}
+.image-17-icon,
+.vector-icon3 {
+  position: relative;
+  display: none;
+}
+.vector-icon3 {
+  width: 45px;
+  height: 50px;
+}
+.image-17-icon {
+  width: 495px;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.desktop-15 {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-image: url(./public/desktop--101@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--body-text-size);
+  color: var(--color-black);
+  font-family: var(--font-marcellus-sc);
+}
+@media screen and (max-width: 1350px) {
+  .content7 {
+    flex-wrap: wrap;
+    gap: var(--gap-497xl);
+    padding-left: var(--padding-605xl);
+    padding-right: var(--padding-23xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .desktop-15-inner {
+    padding-left: var(--padding-16xl);
+    padding-right: var(--padding-16xl);
+    box-sizing: border-box;
+  }
+  .navigation-footer9 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .content7 {
+    gap: var(--gap-239xl);
+    padding-left: var(--padding-293xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .desktop-15-inner {
+    padding-bottom: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .logo-container-parent {
+    gap: var(--gap-10xl);
+  }
+  .navigation-footer9 {
+    padding-right: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .content7 {
+    gap: var(--gap-110xl);
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .treatment-while-there-container {
+    font-size: var(--small-text-size);
+    line-height: 38px;
+  }
+  .medimap10,
+  .top-products-used-container9 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+}

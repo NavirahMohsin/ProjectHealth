@@ -1,0 +1,309 @@
+.removebg-preview-2-icon6 {
+  margin-left: -1279px;
+  height: 197px;
+  width: 246px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.back14 {
+  position: relative;
+  font-size: var(--font-size-mini-8);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--subheading);
+  color: var(--color-white);
+  text-align: left;
+}
+.secondary-button13 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-17xl);
+  background-color: var(--color-black);
+  border-radius: 7.42px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.secondary-button13:hover {
+  background-color: var(--color-darkslategray);
+}
+.secondary-button-wrapper2,
+.secondary-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-58xl) 0 0;
+}
+.secondary-content {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-66xl) 0 var(--padding-1229xl);
+  gap: var(--gap-1014xl);
+}
+.treatment7 {
+  margin: 0;
+}
+.lifestyle-changes-healthy-die1,
+.medications,
+.monitoring-regular-blood-suga,
+.type-1-diabetes-insulin-thera,
+.type-2-diabetes-oral-medicati {
+  margin-bottom: 0;
+}
+.lifestyle-changes-healthy-die {
+  margin: 0;
+  font-family: var(--font-marcellus-sc);
+  font-size: var(--body-text-size);
+  padding-left: var(--padding-8xl);
+}
+.treatment-lifestyle-changes-container {
+  height: 380px;
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  min-width: 505px;
+  max-width: 100%;
+}
+.image-52-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.lifestyle-description,
+.lifestyle-image {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.lifestyle-image {
+  height: 346px;
+  width: 464px;
+  flex-direction: column;
+  padding: var(--padding-6xl) 0 0;
+  box-sizing: border-box;
+  min-width: 464px;
+  max-height: 90%;
+  overflow: auto;
+}
+.lifestyle-description {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-15xl);
+}
+.top-products-used6 {
+  margin: 0;
+  font-family: var(--font-limelight);
+}
+.dpp-4-inhibitors-eg,
+.insulin,
+.metformin,
+.sglt2-inhibitors-eg,
+.sulfonylureas-eg-glibencla {
+  margin: 0;
+}
+.top-products-used-container6 {
+  width: 548px;
+  height: 216px;
+  position: relative;
+  font-size: var(--subheading-size);
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  font-family: var(--font-marcellus-sc);
+}
+.lifestyle-changes,
+.main-content2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lifestyle-changes {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+}
+.main-content2 {
+  width: 1417px;
+  flex-direction: row;
+  padding: 0 var(--padding-52xl) 55px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-limelight);
+}
+.divider7,
+.footer-divider,
+.main-content2 {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divider7 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-top: 0.4px solid var(--color-gainsboro-100);
+}
+.footer-divider {
+  width: 499.3px;
+  height: 0.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xl);
+}
+.medimap7 {
+  align-self: stretch;
+  height: 36px;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  mix-blend-mode: normal;
+}
+.footer-description {
+  width: 227.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-lg-5);
+  box-sizing: border-box;
+}
+.the-best-doctor {
+  height: 45px;
+  width: 392px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 150%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.footer-content4 {
+  width: 1348px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.desktop-94,
+.navigation-footer6 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navigation-footer6 {
+  margin-left: -12px;
+  align-self: stretch;
+  border-radius: 7.14px;
+  background-color: var(--color-white);
+  padding: 0 var(--padding-22xl) var(--padding-20xl);
+  box-sizing: border-box;
+  gap: var(--gap-8xl-6);
+  max-width: 101%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--subheading-size);
+  color: var(--color-black);
+  font-family: var(--subheading);
+}
+.desktop-94 {
+  width: 100%;
+  position: relative;
+  background-image: url(./public/desktop--99@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .secondary-content {
+    flex-wrap: wrap;
+    gap: var(--gap-497xl);
+    padding-left: var(--padding-605xl);
+    padding-right: var(--padding-23xl);
+    box-sizing: border-box;
+  }
+  .main-content2 {
+    padding-left: var(--padding-16xl);
+    padding-right: var(--padding-16xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .image-52-icon1 {
+    align-self: stretch;
+    width: auto;
+  }
+  .lifestyle-image {
+    flex: 1;
+  }
+  .lifestyle-description {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .secondary-content {
+    gap: var(--gap-239xl);
+    padding-left: var(--padding-293xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .lifestyle-image,
+  .treatment-lifestyle-changes-container {
+    min-width: 100%;
+  }
+  .lifestyle-description {
+    gap: var(--gap-mid);
+  }
+  .lifestyle-changes {
+    gap: var(--gap-lgi);
+  }
+  .main-content2 {
+    padding-bottom: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+  .footer-content4 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .secondary-content {
+    gap: var(--gap-110xl);
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .treatment-lifestyle-changes-container {
+    font-size: var(--small-text-size);
+    line-height: 38px;
+  }
+  .medimap7,
+  .top-products-used-container6 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+}

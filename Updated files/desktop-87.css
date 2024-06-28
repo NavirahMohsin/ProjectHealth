@@ -1,0 +1,325 @@
+.removebg-preview-1-icon5 {
+  width: 173px;
+  height: 212px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  z-index: 0;
+}
+.vector-icon1 {
+  width: 45px;
+  height: 50px;
+  position: absolute;
+  margin: 0 !important;
+  top: 81px;
+  right: 195px;
+}
+.image-63-icon {
+  width: 380px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+  z-index: 2;
+}
+.back12 {
+  position: relative;
+  font-size: var(--font-size-mini-8);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--subheading);
+  color: var(--color-white);
+  text-align: left;
+}
+.secondary-button11 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-17xl);
+  background-color: var(--color-black);
+  position: absolute;
+  top: 27px;
+  left: 666px;
+  border-radius: 7.42px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.primary-button5:hover,
+.secondary-button11:hover {
+  background-color: var(--color-darkslategray);
+}
+.malaria1 {
+  margin: 0;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+  font-size: inherit;
+  line-height: 150%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  width: 1008px;
+  z-index: 1;
+}
+.secondary-nav {
+  width: 840px;
+  height: 87px;
+  position: relative;
+  max-width: 100%;
+}
+.malaria-is-a {
+  align-self: stretch;
+  height: 210px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.paragraph {
+  width: 497px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 278.4px 0 0;
+  box-sizing: border-box;
+  min-width: 497px;
+  max-width: 100%;
+}
+.blank-line9 {
+  font-size: var(--body-text-size);
+  font-family: var(--font-marcellus-sc);
+}
+.causes-and-symptoms7 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-limelight);
+}
+.parasites-the-main-species-ca1,
+.transmission-the-disease-is-p {
+  margin-bottom: 0;
+}
+.parasites-the-main-species-ca {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.symptoms1 {
+  margin: 0;
+}
+.initial-symptoms-fever-chill1 {
+  margin-bottom: 0;
+}
+.initial-symptoms-fever-chill {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.causes-and-symptoms-container6 {
+  height: 355.2px;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  text-shadow: 1px 0 0 rgba(0, 0, 0, 0.2), 0 1px 0 rgba(0, 0, 0, 0.2),
+    -1px 0 0 rgba(0, 0, 0, 0.2), 0-1px 0 rgba(0, 0, 0, 0.2);
+  min-width: 833px;
+  max-width: 100%;
+  font-family: var(--font-marcellus-sc);
+}
+.body,
+.content4 {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.content4 {
+  display: flex;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  max-width: 100%;
+}
+.body {
+  align-self: stretch;
+  font-size: var(--body-text-size);
+}
+.body,
+.main-content1,
+.navigation1 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.navigation1 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 72.6px;
+}
+.main-content1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 129px var(--padding-12xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-marko-one);
+}
+.blank-line10 {
+  margin: 0;
+}
+.get-the-cure13,
+.text3 {
+  line-height: 150%;
+  font-weight: 500;
+}
+.text3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+.get-the-cure13 {
+  position: relative;
+  font-size: var(--subheading-size);
+  font-family: var(--subheading);
+  color: var(--color-white);
+  text-align: left;
+}
+.primary-button5 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xl-5) var(--padding-xl);
+  background-color: var(--color-black);
+  position: absolute;
+  top: 6px;
+  left: 487px;
+  border-radius: var(--br-8xs-1);
+  width: 466px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  max-width: 100%;
+  z-index: 1;
+}
+.footer2,
+.label5 {
+  position: relative;
+  max-width: 100%;
+}
+.footer2 {
+  width: 1138px;
+  height: 170px;
+  text-align: left;
+  font-size: var(--font-size-smi-3);
+  color: var(--color-black);
+  font-family: var(--subheading);
+}
+.label5 {
+  flex: 1;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.desktop-87,
+.input-field5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.input-field5 {
+  align-self: stretch;
+  border-radius: var(--br-8xs-1);
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-gainsboro-200);
+  flex-direction: row;
+  padding: var(--padding-3xl) var(--padding-6xs) var(--padding-3xl)
+    var(--padding-5xs);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--body-text-size);
+  color: var(--color-gray);
+  font-family: var(--subheading);
+}
+.desktop-87 {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-43xl) 0 0;
+  background-image: url(./public/desktop--5@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1325px) {
+  .causes-and-symptoms-container6,
+  .paragraph {
+    flex: 1;
+  }
+  .content4 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .causes-and-symptoms-container6 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .malaria1 {
+    font-size: var(--font-size-19xl);
+    line-height: 58px;
+  }
+  .paragraph {
+    min-width: 100%;
+  }
+  .navigation1 {
+    gap: var(--gap-17xl);
+  }
+  .main-content1 {
+    padding-bottom: 84px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .malaria1 {
+    font-size: var(--font-size-10xl);
+    line-height: 43px;
+  }
+  .malaria-is-a {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+  .paragraph {
+    padding-top: 181px;
+    box-sizing: border-box;
+  }
+  .causes-and-symptoms-container6 {
+    font-size: var(--small-text-size);
+    line-height: 38px;
+  }
+  .navigation1 {
+    gap: var(--gap-lg);
+  }
+  .label5 {
+    font-size: var(--small-text-size);
+    line-height: 24px;
+  }
+}

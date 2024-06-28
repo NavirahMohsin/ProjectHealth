@@ -1,0 +1,320 @@
+.removebg-preview-2-icon8 {
+  margin-left: -1279px;
+  height: 197px;
+  width: 246px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.back16 {
+  position: relative;
+  font-size: var(--font-size-mini-8);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--subheading);
+  color: var(--color-white);
+  text-align: left;
+}
+.secondary-button-wrapper4,
+.secondary-button15 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.secondary-button15 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-17xl);
+  background-color: var(--color-black);
+  border-radius: 7.42px;
+  flex-direction: row;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.secondary-button15:hover {
+  background-color: var(--color-darkslategray);
+}
+.secondary-button-wrapper4 {
+  flex-direction: column;
+  padding: var(--padding-58xl) 0 0;
+}
+.frame-wrapper4,
+.removebg-preview-2-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.removebg-preview-2-container {
+  width: 1355px;
+  padding: 0 0 0 var(--padding-1229xl);
+  box-sizing: border-box;
+  gap: var(--gap-1014xl);
+}
+.frame-wrapper4 {
+  align-self: stretch;
+}
+.treatment9 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-limelight);
+}
+.antimalarial-medications-the1,
+.severe-cases-intravenous-or-i {
+  margin-bottom: 0;
+}
+.antimalarial-medications-the {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.prevention {
+  margin: 0;
+}
+.mosquito-control-use-of-insec1 {
+  margin-bottom: 0;
+}
+.mosquito-control-use-of-insec {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.treatment-antimalarial-medicat-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.top-products-used8 {
+  margin: 0;
+  font-family: var(--font-limelight);
+}
+.artemether-lumefantrine,
+.atovaquone-proguanil,
+.chloroquine,
+.doxycycline,
+.primaquine {
+  margin: 0;
+}
+.top-products-used-container8 {
+  width: 548px;
+  height: 208px;
+  position: relative;
+  font-size: var(--subheading-size);
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.treatment-antimalarial-medicat-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  min-width: 505px;
+  max-width: 100%;
+}
+.image-47-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-47-wrapper {
+  height: 308px;
+  width: 505px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 38px 0 0;
+  box-sizing: border-box;
+  min-width: 505px;
+  max-width: 100%;
+}
+.frame-parent10,
+.frame-parent9,
+.image-47-wrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent10 {
+  width: 1359px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-38xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--body-text-size);
+  color: var(--color-black);
+  font-family: var(--font-marcellus-sc);
+}
+.frame-parent9 {
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 var(--padding-11xl) 0 0;
+}
+.divider-wrapper4,
+.divider9,
+.frame-parent9 {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divider9 {
+  flex: 1;
+  position: relative;
+  border-top: 0.4px solid var(--color-gainsboro-100);
+}
+.divider-wrapper4 {
+  height: 0.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-2xl);
+}
+.medimap9 {
+  width: 227.7px;
+  height: 36px;
+  position: relative;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  mix-blend-mode: normal;
+}
+.frame-parent11,
+.navigation-footer-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent11 {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: var(--gap-38xl-6);
+}
+.navigation-footer-inner {
+  width: 478.3px;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-lg-5);
+  box-sizing: border-box;
+}
+.take-care-of {
+  height: 45px;
+  width: 392px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 150%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.navigation-footer8 {
+  margin-left: -12px;
+  align-self: stretch;
+  border-radius: 7.14px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-44xl) var(--padding-20xl) var(--padding-22xl);
+  box-sizing: border-box;
+  max-width: 101%;
+  flex-shrink: 0;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--subheading-size);
+  color: var(--color-black);
+  font-family: var(--subheading);
+}
+.desktop-95 {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 63px;
+  background-image: url(./public/desktop--99@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1400px) {
+  .removebg-preview-2-container {
+    flex-wrap: wrap;
+    gap: var(--gap-497xl);
+    padding-left: var(--padding-605xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .image-47-icon1 {
+    align-self: stretch;
+    width: auto;
+  }
+  .image-47-wrapper {
+    flex: 1;
+  }
+  .frame-parent10,
+  .navigation-footer8 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 825px) {
+  .removebg-preview-2-container {
+    gap: var(--gap-239xl);
+    padding-left: var(--padding-293xl);
+    box-sizing: border-box;
+  }
+  .image-47-wrapper,
+  .treatment-antimalarial-medicat-parent {
+    min-width: 100%;
+  }
+  .frame-parent10 {
+    gap: var(--gap-9xl);
+  }
+  .frame-parent11 {
+    gap: var(--gap-10xl);
+  }
+  .navigation-footer8 {
+    padding-right: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .desktop-95 {
+    gap: var(--gap-12xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .removebg-preview-2-container {
+    gap: var(--gap-110xl);
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .treatment-antimalarial-medicat-container {
+    font-size: var(--small-text-size);
+    line-height: 38px;
+  }
+  .medimap9,
+  .top-products-used-container8 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .desktop-95 {
+    gap: var(--gap-base);
+  }
+}
