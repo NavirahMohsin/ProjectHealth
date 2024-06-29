@@ -1,0 +1,30 @@
+const chatbotApiEndpoint = 'https://api.chatbase.co/messages';
+const apiKey = 'AIzaSyCOFv8OHw16YO_uIMhYshV594KnDWDCXdM';
+
+async function sendMessageToChatbot(message) {
+    const response = await fetch(chatbotApiEndpoint, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${apiKey}`
+        },
+        body: JSON.stringify({
+            message: message,
+            // other parameters as required by the API
+        })
+    });
+
+    if (!response.ok) {
+        throw new Error('Failed to fetch chatbot response');
+    }
+
+    const data = await response.json();
+    return data;
+}
+
+// Example usage:
+sendMessageToChatbot('Hello').then(response => {
+    console.log('Chatbot response:', response);
+}).catch(error => {
+    console.error('Error:', error);
+});
